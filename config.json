@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/cp_blog",
+    "prod_uri":"mysql://root:@localhost/cp_blog",
+    "fb_url":"https://www.facebook.com",
+    "tw_url":"https://www.twitter.com",
+    "gh_url": "https://www.github.com",
+    "blog_name": "Competitive Programming",
+    "tag_line": "Everything for programmers",
+    "about_text": "This is a Competitive Programming Blog where you can find various articles related to it. The articles also cover topics including Data Structures and Algorithms.",
+    "no_of_posts": 4,
+    "admin_user":"cpisfun",
+    "admin_password": "letsdocp"
+  }
+
+}
